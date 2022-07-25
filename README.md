@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sajjad 
+- 👋 Hi, I’m Sajjad Shahmohamadlo
 - 👀 I’m interested in Web developing
 - 🌱 I’m currently learning Django Framework
 - 💞️ I’m looking to collaborate on ...
